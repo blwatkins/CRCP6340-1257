@@ -3,3 +3,5 @@
 Notes and examples for CRCP 6340 - Creative Coding for Application Development; Fall 2025 term.
 
 This is a change from the local repository.
+
+This is a change from the remote repository.
